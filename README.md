@@ -1,3 +1,5 @@
+![Lucas Eliaquim](https://i.imgur.com/vcTBpnV.png)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-eliaquim/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&labelColor=blue">
@@ -30,3 +32,6 @@ I am a Computer Engineering student at UNIVASF, fascinated by Data Science and D
 - ⚡ Languages: Python, Javascript and a bit of PHP
 
 Feel free to follow me on twitter or Linkedin and message me 😃
+
+
+<a href='https://www.freepik.com/vectors/blue'>Blue vector created by vectorjuice - www.freepik.com</a>
