@@ -2,10 +2,6 @@
   <a href="https://www.linkedin.com/in/lucas-eliaquim/">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  
-  <a href="mailto:lucas_m-santos@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=mail.ru&labelColor=blue">
-  </a>
  
   <a href="https://twitter.com/LEliaquim">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=white">
