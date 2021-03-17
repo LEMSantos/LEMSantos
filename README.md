@@ -19,6 +19,12 @@
   </table>
 </center>
 
+<center>
+  <img
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=LEMSantos&labels=true"
+  />
+</center>
+
 ### Hey, I'am Lucas 👋
 
 I am a Computer Engineering student at UNIVASF, fascinated by Data Science and Data Engineering, in addition to liking anything related to Artificial Intelligence. My personal goal is to reach high positions in the tech industry and travel all over the world. I try to be humorous and sometimes energetic, but I like to argue when it comes to R vs Python or how Artificial Intelligence is going to take over the world.
